@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "co": "^4.6.0",
-    "jquery": "^2.2.1",
+    "jquery": "^3.5.1",
     "jsdom": "^8.0.4",
     "moment": "^2.11.2"
   }
